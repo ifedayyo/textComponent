@@ -35,5 +35,5 @@ export default function App() {
 }
 
 function TextExpander() {
-  return <div>TODO</div>;
+  return <div></div>;
 }
